@@ -7,10 +7,3 @@ def r
     return "You guessed the correct number!"
   end
 end
-
-
-if number != 5
-  return "The computer guessing 5."
-
-else
-  return "You guessed the correct number!"
