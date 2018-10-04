@@ -10,6 +10,5 @@ def run_guessing_game
     else answer != this
     return puts "The computer guessed #{this}."
     exit
-  end
 end
 end
