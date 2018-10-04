@@ -1,6 +1,6 @@
-def run_guessing_game
+def r
   puts "Guess a number between 1 and 6."
-  get.chomp
+
 end
 
 
