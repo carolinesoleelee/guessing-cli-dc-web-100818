@@ -3,6 +3,8 @@ def r
   answer = gets.chomp
   if answer != 5
     return "The computer guessing 5."
+  else
+    return "You guessed the correct number!"
   end
 end
 
