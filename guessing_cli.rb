@@ -3,6 +3,7 @@ def run_guessing_game
   answer = gets.chomp
   if answer != 5
     return "The computer guessing 5."
+    exit
   else answer == 5
     return "You guessed the correct number!"
   end
